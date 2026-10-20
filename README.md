@@ -1,4 +1,4 @@
-NEXORA
+# NEXORA
 
 Plataforma de organización estudiantil | Proyecto de prototipo — CBTIS 230
 
